@@ -14,7 +14,8 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * RMI服务器
- * @author tong
+ *
+ * @author tyz
  */
 public class RmiServer implements Runnable, IRmiInit, ISubscriber {
     private int port;

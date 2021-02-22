@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interfaces>
+<!-- 接口和实现类的关系如下配置，name为接口名，class为实现类名
+例如 name="com.tyz.rmi.core.interface"
+    class="com.tyz.test.class"
+-->
+    <interface name="com.tyz.rmi.test.TestInterface"
+               class="com.tyz.rmi.test.TestClass"></interface>
+</interfaces>

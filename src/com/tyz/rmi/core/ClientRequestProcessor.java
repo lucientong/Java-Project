@@ -14,7 +14,7 @@ import java.net.Socket;
  * RMI实现的是短链接模式，当客户端需要服务端执行方法时，会和服务器建立链接。
  * ClientRequestProcessor类完成的就是和客户端建立连接之后的后续操作，包
  * 括和客户端建立通信信道，解析需要服务器执行的方法以及执行方法等。
- * @author tong
+ * @author tyz
  */
 public class ClientRequestProcessor implements Runnable {
     private Socket clientSocket;

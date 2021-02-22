@@ -1,12 +1,11 @@
 package com.tyz.rmi.core;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
  * 实现RMI中的代理
- * @author tong
+ *
+ * @author tyz
  */
 public class RmiProxy {
 

@@ -2,7 +2,7 @@ package com.tyz.rmi.core;
 
 /**
  * 捕获由于类类型不合规而产生的异常
- * @author tong
+ * @author tyz
  */
 public class ClassTypeException extends RuntimeException {
     public ClassTypeException() {

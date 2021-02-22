@@ -1,7 +1,7 @@
 package com.tyz.rmi.core;
 
 /**
- * @author tong
+ * @author tyz
  */
 public interface IRmiInit {
     /**

@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
  * 码，值分别映射为对象和方法，但是这也是冗余了。所以我们索性不对对象采用单例的
  * 实现，因为每个索引都是一个指针，并不占用太多的空间，这部分空间可以被浪费掉。
  *
- * @author tong
+ * @author tyz
  */
 public class RemoteMethodDefinition {
     private Object object;

@@ -12,7 +12,8 @@ import java.net.Socket;
 
 /**
  * RMI 客户端
- * @author tong
+ *
+ * @author tyz
  */
 public class RmiClient implements IRmiInit {
     private int rmiServerPort;

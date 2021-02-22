@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author tong
+ * @author tyz
  */
 public class RemoteMethodScanner {
     private static final Map<String, RemoteMethodDefinition> IMPL_METHOD_POOL;

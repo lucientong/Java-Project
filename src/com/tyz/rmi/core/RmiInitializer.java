@@ -4,7 +4,8 @@ import com.tyz.util.PropertiesParse;
 
 /**
  * 实现端口号以及ip地址的初始化工作
- * @author tong
+ *
+ * @author tyz
  */
 public class RmiInitializer {
     static final int DEFAULT_PORT = 12710;
